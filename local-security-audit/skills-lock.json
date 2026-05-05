@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "dev-security-sentinel-v2": {
+      "source": "Laucs-sudo/Skills",
+      "sourceType": "github",
+      "skillPath": "local-security-audit/SKILL.md",
+      "computedHash": "bf49644a51eeddefddd95bc71cda7b970da5881ce2c156db1c58ef6fbd171a72"
+    }
+  }
+}

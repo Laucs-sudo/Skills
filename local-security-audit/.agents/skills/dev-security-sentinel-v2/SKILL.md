@@ -1,5 +1,5 @@
 ---
-name: local-security-audit
+name: dev-security-sentinel-v2
 description: Enterprise-grade security audit and automated patching engine for local environments (localhost:5173). Explicitly prohibits public domain interaction to prevent out-of-scope violations.
 ---
 
